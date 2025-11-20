@@ -1,4 +1,4 @@
-🎨 [ArtistsHub (web application)](https://zviacheslavv.github.io/developers-orchestra-project/)
+🎻 [ArtistsHub (web application)](https://zviacheslavv.github.io/developers-orchestra-project/)
 
 > A modern, responsive application for discovering and exploring musical artists, featuring powerful sorting tools and an integrated feedback form.
 
