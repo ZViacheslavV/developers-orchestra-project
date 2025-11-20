@@ -35,7 +35,6 @@
 - **Client-side pagination** implemented with TUI Pagination for efficient list navigation.
 - **Rating widgets** using css-star-rating and raty-js for feedback and artist evaluation.
 - **Toast notifications** (success/error/info) with iziToast for real-time feedback.
-- **Automatic HTML injection and optimized builds using Vite plugins (vite-plugin-html-inject, vite-plugin-full-reload).
 
 
 
