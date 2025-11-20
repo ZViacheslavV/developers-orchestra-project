@@ -10,15 +10,19 @@
 
 - **JavaScript (ES6+)** — interactive UI, custom filters, API-driven logic
 
-CSS3 / HTML5 — responsive and adaptive layouts
+- **CSS3 / HTML5** — responsive and adaptive layouts
 
-REST API — custom data layer for artist search
+- **REST API** — custom data layer for artist search
 
-Vite — fast development & optimized builds
+- **GSAP** — smooth animations and interaction enhancements
 
-Git — version control and coordinated teamwork
+- **Axios, Swiper, TUI Pagination, iziToast, css-star-rating** — extended functionality and improved UX
 
-Figma — UI specification and layout alignment
+- **Vite** — fast development & optimized builds
+
+- **Git** — version control and coordinated teamwork
+
+- **Figma** — UI specification and layout alignment
 
 
 
