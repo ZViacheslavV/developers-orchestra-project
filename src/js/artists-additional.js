@@ -15,22 +15,7 @@ export let query = { name: '', page: 1, sorted: 0, genre: '' };
 
 // const allDropdowns = [];
 
-//============================ Inits ============================
-initGenresMarkup();
-
-initSearchAndFilters();
-
-initSearchRequest();
-
-initSort();
-
-initGenres();
-
-initReset();
-
-execHeroBtnClick();
-
-helpClearHoverOnButtons();
+filterInitialization();
 
 //============================ Functions ============================
 /* == Search and Filters menu == */
@@ -475,3 +460,21 @@ function initDropdown({ btn, menu, wrapperSelector }) {
   }
   return artists;
 } */
+
+export function filterInitialization() {
+  initGenresMarkup();
+
+  initSearchAndFilters();
+
+  initSearchRequest();
+
+  initSort();
+
+  initGenres();
+
+  initReset();
+
+  execHeroBtnClick();
+
+  helpClearHoverOnButtons();
+}
