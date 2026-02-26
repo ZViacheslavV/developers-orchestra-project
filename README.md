@@ -4,6 +4,9 @@
   <img src="src/img/app.png" width="1100" alt="App Orchestra"/>
 </a>
 
+</br>
+</br>
+
 > A modern, responsive application for discovering and exploring musical
 > artists, featuring powerful sorting tools and an integrated feedback form.
 
