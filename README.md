@@ -1,6 +1,8 @@
 ## 🎻 [ArtistsHub (web application)](https://zviacheslavv.github.io/developers-orchestra-project/)
 
-<img src="src/img/app.png" width="1100" alt="App Orchestra"/>
+<a href="https://zviacheslavv.github.io/developers-orchestra-project/">
+  <img src="src/img/app.png" width="1100" alt="App Orchestra"/>
+</a>
 
 > A modern, responsive application for discovering and exploring musical
 > artists, featuring powerful sorting tools and an integrated feedback form.
